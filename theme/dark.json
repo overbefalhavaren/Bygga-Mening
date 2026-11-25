@@ -1,0 +1,25 @@
+{
+    "background": [50, 50, 50],
+    "correct": [0, 255, 0],
+    "incorrect": [255, 0, 0],
+    "defaults": {
+        "normal_bg": [156, 156, 156],
+        "normal_text": [0, 0, 0],
+        "normal_border": [0, 0, 0],
+
+        "hovered_bg": [140, 139, 139],
+        "hovered_text": [0, 0, 0],
+        "hovered_border": [0, 0, 0],
+
+        "clicked_bg": [97, 96, 96],
+        "clicked_text": [0, 0, 0],
+        "clicked_border": [0, 0, 0],
+
+        "disabled_bg": [97, 96, 96],
+        "disabled_text": [0, 0, 0],
+        "disabled_border": [0, 0, 0],
+        
+        "corner_radius": 8,
+        "border_width": 2
+    }
+}

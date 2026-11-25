@@ -1,0 +1,32 @@
+{
+    "size": [
+        800,
+        400
+    ],
+    "title": "",
+    "show_fps": false,
+    "fps_cap": 60,
+    "theme": "dark",
+    "current_mode": "Prepositioner",
+    "modes": {
+        "tanks": [
+            "Panzerkampfwagen VI Tiger I Ausf\u00fcrung E",
+            "Stridsvagn 122 Bertil +",
+            "M1A2 Abrams sep v2",
+            "M4 A3 E8 \"Easy eight\"",
+            "Tank, Infantry, MK IV (A22) Churchill",
+            "FV4034 Challenger 2",
+            "Stridsfordon 9040 Cesar",
+            "Kliment Vorosjilov 1 S",
+            "T - 90 M",
+            "Leopard 2 A 8",
+            "F|V|4|0|0|2",
+            "Merkava MK. 4 M",
+            "F|C|M|.|3|6",
+            "A|M|X|-|1|3",
+            "Leclerc AZUR",
+            "Panzerkampfwagen Tiger Ausf\u00fcrung B \"K\u00f6nigstiger\"",
+            "M4 A3 E3 Sherman \"Jumbo\""
+        ]
+    }
+}
